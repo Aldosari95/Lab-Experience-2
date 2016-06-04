@@ -64,5 +64,9 @@ li.active a, a:hover, a:active {
   height: 30px;
   border-radius: 20px;
   background: rgba(0, 0, 0, 0.85);
+<<<<<<< HEAD
   border: 4px solid #f84d4d;
+=======
+  border: 4px solid #7fcff7;
+>>>>>>> 104fc98699ed64114afa139a4c9ea167a89fa980
 }
