@@ -1398,13 +1398,13 @@
 /* Back Pulse */
 @-webkit-keyframes hvr-back-pulse {
   50% {
-    background-color: rgba(32, 152, 209, 0.75);
+    background-color: rgba(209, 32, 32, 0.75);
   }
 }
 
 @keyframes hvr-back-pulse {
   50% {
-    background-color: rgba(32, 152, 209, 0.75);
+    background-color: rgba(209, 32, 32, 0.75);
   }
 }
 
@@ -1434,8 +1434,8 @@
   animation-timing-function: linear;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-color: #2098d1;
-  background-color: #2098d1;
+  background-color: #d12020;
+  background-color: #d12020;
   color: white;
 }
 
@@ -4877,3 +4877,5 @@
   width: 25px;
   height: 25px;
 }
+
+
